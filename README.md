@@ -1,4 +1,6 @@
 # Deploy a Production Ready Kubernetes Cluster
+# THE DEFAULTS HERE USE A SPECIFIC VERSION OF K8S AND USES CONTAINERD AS THE RUNTIME
+
 
 ![Kubernetes Logo](https://raw.githubusercontent.com/kubernetes-sigs/kubespray/master/docs/img/kubernetes-logo.png)
 
